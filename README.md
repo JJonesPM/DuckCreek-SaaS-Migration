@@ -30,7 +30,7 @@ As Senior Product Owner at Allstate (2021–2024), I led the migration of a lega
 
 ## Relevance to Product Management
 This project showcases my ability to:
-- Lead complex SaaS migrations, relevant for AWS, Google Cloud, and Stripe roles.
+- Lead complex SaaS migrations, aligning with Meta and Amazon's priorites.
 - Drive user-centric fintech solutions, aligning with Meta and Amazon’s priorities.
 - Manage cross-functional teams and regulatory challenges, critical for senior PM roles.
 
